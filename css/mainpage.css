@@ -4,3 +4,8 @@ h3{color:rgb(14, 247, 33);}
 div{background-color:dimgrey; padding:10px;}
 a{text-decoration:none;}
 #playicon{position:fixed; right:10px;}
+.genre{
+    display:flex;
+    align-items:center;
+
+}
