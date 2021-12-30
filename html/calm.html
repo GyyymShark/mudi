@@ -7,21 +7,39 @@
     <title>잔잔한 노래</title>
     <style>
     span{
-        display : block;
-        /*width : 100px;
-        height : 60px;*/
+        width : 15em;
+        height : 3em;
+        border : 1px solid lightgray;
+        position:fixed;
+        right:10px;
+        overflow:scroll;
+    }
+    
+    .genre{
+        display:flex;
+        align-items:center;
     }
     </style>
-
 </head>
+
+
 <body>
     <h3>잔잔한 노래</h3>
     <hr>
-    <ul>
-        <li><span>instagram</span><span>DEAN</span></li>
-        <li>사람은 이상하고 사랑은 모르겠어<br>이예린</li>
-        <li>To Die For</li>
-    </ul>
+        <div class="genre">instagram<br>DEAN 
+            <span class="diary"> 우울할때마다 듣는 노래 고3제주도 여행갔을때 많이 들었다</span>
+        </div>
+       <p></p>
+       <div class="genre">사람은 이상하고 사랑은 모르겠어<br>이예린
+            <span class="diary"> 21년 여름방학 오픽시험 보기전에 갔던 카페에서 나오던 노래 몽환적이고 잔잔한게 내 취향이다</span>
+       </div>
+       <p></p>
+
+       <div class="genre">To Die For<br>DEAN 
+            <span class="diary"> 전역하고 듣게 된 노래 전역하고 공허한 마음이 들때 이 노래를 들었다 너무 감성적인노래다</span>
+       </div>
+
+    
     
 </body>
 </html>
