@@ -1,13 +1,15 @@
-span{
-    width : 15em;
-    height : 3em;
-    border : 1px solid lightgray;
-    position:fixed;
-    right:10px;
-    overflow:scroll;
-}
-
+/*form { background-color:dimgrey; padding:20px;}*/
+#text{color:white; font-weight:500; }
+h3{color:rgb(14, 247, 33);}
+div{background-color:dimgrey; padding:10px;}
+a{text-decoration:none;}
+#playicon{position:fixed; right:10px;}
 .genre{
     display:flex;
     align-items:center;
+
+}
+.diary{
+    margin-left:auto;
+   
 }
