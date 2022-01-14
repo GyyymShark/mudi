@@ -1,15 +1,23 @@
 /*form { background-color:dimgrey; padding:20px;}*/
 #text{color:white; font-weight:500; }
-h3{color:rgb(14, 247, 33);}
-div{background-color:dimgrey; padding:10px;}
-a{text-decoration:none;}
+h3{color:lime;
+    display:flex;
+    align-items:center;
+}
+a{text-decoration:none;
+  color:lime;
+}
 #playicon{position:fixed; right:10px;}
 .genre{
     display:flex;
     align-items:center;
-
+    background-color:dimgrey; padding:10px;
 }
 .diary{
     margin-left:auto;
    
 }
+ .playlist{
+  margin:auto;
+} 
+

@@ -25,8 +25,9 @@
 
 
 <body>
-    <h3>잔잔한 노래</h3>
-    <hr>
+     <h3>잔잔한 노래 
+       <span class="playlist"><a href="#" onclick="window.open('playlist.html', 'playlist','width=300, height=300, menubar=no, status=no, toolbar=no');">플레이리스트 목록</a></span>
+     </h3> <hr>
         <div class="genre">instagram<br>DEAN 
             <span class="diary"> 우울할때마다 듣는 노zzzzzzzzzz래 고3제주도 여행갔을때 많이 들었다</span>
         </div>
@@ -39,8 +40,10 @@
        <div class="genre">To Die For<br>DEAN 
             <span class="diary"> 전역하고 듣게 된 노래 전역하고 공허한 마음이 들때 이 노래를 들었다 너무 감성적인노래다</span>
        </div>
-
-       
+       <input type="text" id="Text">
+       <input type="submit" id="submit" onclick="
+       document.write(document.getElementById('Text').value);
+       ">
     
     
 </body>
