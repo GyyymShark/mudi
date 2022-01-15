@@ -12,12 +12,18 @@ a{text-decoration:none;
     display:flex;
     align-items:center;
     background-color:dimgrey; padding:10px;
+    color:white;
 }
 .diary{
     margin-left:auto;
    
 }
- .playlist{
+ .playlist_title{
   margin:auto;
+ }
+.playlist{
+  display:flex;
+  align-items:center;
+  background-color: dimgrey;
 } 
 
