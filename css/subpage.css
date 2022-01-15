@@ -1,13 +1,29 @@
-span{
-    width : 15em;
-    height : 3em;
-    border : 1px solid lightgray;
-    position:fixed;
-    right:10px;
-    overflow:scroll;
-}
-
-.genre{
+/*form { background-color:dimgrey; padding:20px;}*/
+#text{color:white; font-weight:500; }
+h3{color:lime;
     display:flex;
     align-items:center;
 }
+a{text-decoration:none;
+  color:lime;
+}
+#playicon{position:fixed; right:10px;}
+.genre{
+    display:flex;
+    align-items:center;
+    background-color:dimgrey; padding:10px;
+    color:white;
+}
+.diary{
+    margin-left:auto;
+   
+}
+ .playlist_title{
+  margin:auto;
+ }
+.playlist{
+  display:flex;
+  align-items:center;
+  background-color: dimgrey;
+} 
+
