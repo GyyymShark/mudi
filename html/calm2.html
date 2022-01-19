@@ -8,6 +8,7 @@
     <link type="text/css" rel="stylesheet" href="../css/subpage.css">
     <script src="../js/text.js"></script>
     <script src="../js/div.js"></script>
+    <script src="../js/addsong.js"></script>
 </head>
 
 
@@ -36,9 +37,19 @@
            
           </details>
         </span>
-
+    <input type="text" id="songtitle" size="12" placeholder="곡 제목을 쓰세요" >
+    <input type="submit" id="songtitle_submit" onclick="AddSongTitle();
+    ">
+    <input type="text" id="songartist" size="12" placeholder="곡 가수를 쓰세요" >
+    <input type="submit" id="songartist_submit" onclick="AddSongArtist();
+    ">
+    
+    <input type="text" id="songdiary" size="30" placeholder="곡에 대한 기록을 하세요" >
+    <input type="submit" id="songdiary_submit" onclick="AddSongDiary();
+    ">
      </h3> <hr>
-     
+     <div id="playlist"></div>
+     <p></p>
         <div class="genre">instagram<br>DEAN 
             <span class="diary"> 우울할때마다 듣는 노래 고3제주도 여행갔을때 많이 들었다</span>
         </div>
@@ -53,7 +64,14 @@
        </div>
        <p></p>
 
-
-  
+       <div class="genre">To Die For<br>DEAN 
+        <span id="diary4" class="diary"></span>
+   </div>
+       
+       
+    <input type="text" id="textbox" size="30" placeholder="곡에 대한 기록을 하세요" >
+    <input type="submit" id="submit" onclick="DiaryRecord();
+    ">
+    <div id="area"></div>
 </body>
 </html>
