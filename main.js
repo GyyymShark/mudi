@@ -2,11 +2,15 @@ var http = require('http');
 var url = require('url');
 var author = require('./lib/author');
 const playlist=require('./lib/playlist.js');
+const song=require('./lib/song.js');
 
 var app = http.createServer(function(request,response){
     var _url = request.url;
     var queryData = url.parse(_url, true).query;
     var pathname = url.parse(_url, true).pathname;
+    
+    
+    
     if(pathname === '/'){
       if(queryData.id === undefined){
         playlist.home(request, response);
@@ -23,6 +27,10 @@ var app = http.createServer(function(request,response){
       playlist.update_process(request, response);
     } else if(pathname === '/delete_process'){
       playlist.delete_process(request, response);
+    } else if(pathname === '/song/add/'){
+      song.add(request, response);
+    } else if(pathname=== '/song/add_process/'){
+      song.add_process(request, response);
     } else if(pathname === '/author'){
       author.home(request, response);
     } else if(pathname === '/author/create_process'){
