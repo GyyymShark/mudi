@@ -31,6 +31,8 @@ var app = http.createServer(function(request,response){
       song.add(request, response);
     } else if(pathname=== '/song/add_process/'){
       song.add_process(request, response);
+    } else if(pathname=== '/song/delete_process'){
+      song.delete_process(request, response);
     } else if(pathname === '/author'){
       author.home(request, response);
     } else if(pathname === '/author/create_process'){
