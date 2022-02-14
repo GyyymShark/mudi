@@ -35,6 +35,8 @@ var app = http.createServer(function(request,response){
       song.delete_process(request, response);
     } else if(pathname=== '/song/update'){
       song.update(request, response);
+    } else if(pathname=== '/song/update_process/'){
+      song.update_process(request, response);
     } else if(pathname === '/author'){
       author.home(request, response);
     } else if(pathname === '/author/create_process'){
