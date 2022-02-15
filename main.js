@@ -1,6 +1,5 @@
 var http = require('http');
 var url = require('url');
-var author = require('./lib/author');
 const playlist=require('./lib/playlist.js');
 const song=require('./lib/song.js');
 
@@ -37,16 +36,6 @@ var app = http.createServer(function(request,response){
       song.update(request, response);
     } else if(pathname=== '/song/update_process/'){
       song.update_process(request, response);
-    } else if(pathname === '/author'){
-      author.home(request, response);
-    } else if(pathname === '/author/create_process'){
-      author.create_process(request, response);
-    } else if(pathname === '/author/update'){
-      author.update(request, response);
-    } else if(pathname === '/author/update_process'){
-      author.update_process(request, response);
-    } else if(pathname === '/author/delete_process'){
-      author.delete_process(request, response);
     } else {
       response.writeHead(404);
       response.end('Not found');
