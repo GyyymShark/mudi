@@ -50,5 +50,7 @@ melon에는 그런기능이 없어 직접 개발하게 되었다.
 <LI>곡 삭제</LI>
 <img src="https://user-images.githubusercontent.com/46774346/154086207-ae44adcb-fcb2-438f-883f-ec7371f4c9ed.gif">
 <br>
+<li>플레이리스트 선택</li>
+<img src="https://user-images.githubusercontent.com/46774346/154087269-d81b4500-6cb6-4ad5-8e36-1b31a4a51c7e.gif">
 
 
