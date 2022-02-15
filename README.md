@@ -77,8 +77,12 @@ WEB2-Node.js-MYSQL
 <img src="https://user-images.githubusercontent.com/46774346/154089606-88dd6867-07ee-41fc-8a5f-451f848f075e.png">
 playlist, song 두개의 테이블을 이용함
 <br>
+<br>
+<br>
 <img src="https://user-images.githubusercontent.com/46774346/154089618-c528b808-fc06-4feb-8bf8-7a533620a11a.png">
 playlist에는 고유id, 플레이리스트 이름, 저장된 곡의 개수를 나타내는 행이 있다
+<br>
+<br>
 <br>
 <img src="https://user-images.githubusercontent.com/46774346/154089639-ed053dba-77da-41d6-b7bf-b9fdd5fbb286.png">
 song에는 고유id, 곡제목, 가수이름, 기록, 플레이리스트id가 있다
