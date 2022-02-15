@@ -33,7 +33,7 @@ melon에는 그런기능이 없어 직접 개발하게 되었다.
 
 ## 구현사항 
 <li>플레이리스트 추가 </li>
-<img src="https://user-images.githubusercontent.com/46774346/154080972-e7f0fc56-15cb-4040-af82-522e2cbbe174.gif width="120" height="120">
+<img src="https://user-images.githubusercontent.com/46774346/154080972-e7f0fc56-15cb-4040-af82-522e2cbbe174.gif width="1000" >
 
 
 <LI>플레이리스트 수정</LI>
