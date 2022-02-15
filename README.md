@@ -33,7 +33,7 @@ melon에는 그런기능이 없어 직접 개발하게 되었다.
 
 ## 구현사항 
 <li>플레이리스트 추가 </li>
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/46774346/154080028-2e376f92-74a7-4a1e-9989-ba6011779223.gif)
+(https://user-images.githubusercontent.com/46774346/154080028-2e376f92-74a7-4a1e-9989-ba6011779223.gif)
 
 
 <LI>플레이리스트 수정</LI>
