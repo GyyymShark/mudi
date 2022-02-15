@@ -33,9 +33,9 @@ melon에는 그런기능이 없어 직접 개발하게 되었다.
 
 ## 구현사항 
 <li>플레이리스트 추가 </li>
-<img src="https://user-images.githubusercontent.com/46774346/154080972-e7f0fc56-15cb-4040-af82-522e2cbbe174.gif width="1000" >
+<img src="https://user-images.githubusercontent.com/46774346/154080972-e7f0fc56-15cb-4040-af82-522e2cbbe174.gif width="250" height="250"/>
 
-
+ 
 <LI>플레이리스트 수정</LI>
 <img src="https://user-images.githubusercontent.com/46774346/154082863-65ae44b0-a674-45ff-8317-5458cd023eff.gif">
 <LI>플레이리스트 삭제</li>
