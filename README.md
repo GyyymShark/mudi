@@ -37,6 +37,7 @@ melon에는 그런기능이 없어 직접 개발하게 되었다.
 
 
 <LI>플레이리스트 수정</LI>
+<img src="https://user-images.githubusercontent.com/46774346/154082863-65ae44b0-a674-45ff-8317-5458cd023eff.gif">
 <LI>플레이리스트 삭제</li>
 <LI>곡 추가</LI>
 <LI>곡 수정</LI>
