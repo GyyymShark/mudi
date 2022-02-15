@@ -3,6 +3,7 @@
 
 
 **제목의 의미** : music diary의 줄임말  
+<br>
 
 <div align=center><h1>📚 STACKS</h1></div>
 
@@ -20,7 +21,8 @@
   <br>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</div>
+</div>  
+<br>
 
 
 ## 프로젝트 목적
@@ -28,5 +30,14 @@
 노래를 들으면 그때의 기억, 감정들이 떠오를때가 있다.  
 그 기억들을 노래마다 기록하고 싶었는데,  
 melon에는 그런기능이 없어 직접 개발하게 되었다.
+
+## 구현사항 
+<li>플레이리스트 추가 </li>
+<LI>플레이리스트 수정</LI>
+<LI>플레이리스트 삭제</li>
+<LI>곡 추가</LI>
+<LI>곡 수정</LI>
+<LI>곡 삭제</LI>
+
 
 
