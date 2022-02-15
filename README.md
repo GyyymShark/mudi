@@ -54,3 +54,20 @@ melon에는 그런기능이 없어 직접 개발하게 되었다.
 <img src="https://user-images.githubusercontent.com/46774346/154087269-d81b4500-6cb6-4ad5-8e36-1b31a4a51c7e.gif">
 
 
+
+## 개발기간
+2021.12.26 ~ 2022.02.16
+<br>
+
+## 참고 사이트&과정
+생활코딩 - https://opentutorials.org/course/1
+WEB1-HTML&INTERNET
+WEB2-CSS
+WEB2-Javascript
+WEB2-Node.js
+WEB2-Node.js-MYSQL
+
+## 데이터베이스 테이블
+
+## 부족한점
+
