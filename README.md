@@ -34,11 +34,13 @@ melon에는 그런기능이 없어 직접 개발하게 되었다.
 ## 구현사항 
 <li>플레이리스트 추가 </li>
 <img src="https://user-images.githubusercontent.com/46774346/154080972-e7f0fc56-15cb-4040-af82-522e2cbbe174.gif">
-
- 
+<br>
 <LI>플레이리스트 수정</LI>
 <img src="https://user-images.githubusercontent.com/46774346/154082863-65ae44b0-a674-45ff-8317-5458cd023eff.gif">
+<br>
 <LI>플레이리스트 삭제</li>
+<img src="https://user-images.githubusercontent.com/46774346/154083724-fb8f1e5b-1b0c-4c67-8392-d2d8977e569d.gif">
+<br>
 <LI>곡 추가</LI>
 <LI>곡 수정</LI>
 <LI>곡 삭제</LI>
