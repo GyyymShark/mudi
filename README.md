@@ -48,6 +48,7 @@ melon에는 그런기능이 없어 직접 개발하게 되었다.
 <img src="https://user-images.githubusercontent.com/46774346/154086215-b1508152-f9e1-456e-b135-e43642c8063b.gif">
 <br>
 <LI>곡 삭제</LI>
+<img src="https://user-images.githubusercontent.com/46774346/154086207-ae44adcb-fcb2-438f-883f-ec7371f4c9ed.gif">
 <br>
 
 
